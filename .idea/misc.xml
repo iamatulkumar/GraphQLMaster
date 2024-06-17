@@ -1,0 +1,8 @@
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Pipenv (GraphQLMaster) (3)" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="Pipenv (GraphQLMaster)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
